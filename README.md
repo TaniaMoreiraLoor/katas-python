@@ -73,6 +73,7 @@ Proyecto_Python/
   
 
 - Python 3.x
+- Visual Studio Code
 
   
 
